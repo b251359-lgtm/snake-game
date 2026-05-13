@@ -8,10 +8,10 @@ Game over condition
 
 
 Controls of this game
-W → Up
-S → Down
-A → Left
-D → Right
+W → Up,
+S → Down,
+A → Left,
+D → Right,
 X → Exit game
 
 
